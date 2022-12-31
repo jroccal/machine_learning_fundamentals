@@ -1,49 +1,51 @@
 # Machine Learning Fundamentals
 ## Content
-### 1. General Concepts
-- Artifitial Inteligence, Machine learning, Deep learning 
-- Supervised, Unsupervised and Reinforcement Learning
-- Mathematical Foundations
-    - Linear Algebra
-    - Calculus
-    - Probabilities
-    - Optimization: Gradient Descent
+### 1.  General Knowledge
+    1.1 Artificial Intelligence, Machine Learning, Deep Learning
+    1.2 Learning scenarios/Types of machine learning
+    1.3 Mathematical foundations
+    1.4 Applications        
+### 2. The Machine Learning Approach
+    2.1 Overfitting and Underfitting
+    2.2 Model selection
+        - Cross-Validation
+        - Hyperparameters search:
+            - Grid search
+            - Random search
+            - Automatic approaches
+    2.3 Challenges
+    - Insufficient Quantity of Training Data
+    - Nonrepresentative Training Data
+    - Poor-Quality Data
+    - Irrelevant Features
+    - The Curse of Dimensionality
+### 3. Regression and Classification Algorithms
+    3.1 Regression
+        3.1.1 Metrics: MSE, RMSE, MAE
+        3.1.2 Algorithms:
+            - Linear Regression
+                - Mathematical formulation
+                - Practical Example
 
-### 2. Tasks
-- Regression 
-    - Mathematical Formulation
-    - Regression Metrics
-- Classification
-    - Mathematical Formulation
-    - Classification Metrics
+            - LGBM Regression
+                - Mathematical formulation
+                - Practical Example
 
-### 3. Algorithms
-- Linear Models
-    - Linear Regression
-    - Logistic Regression
-- Support Vector Machines
-    - SVR
-    - SVM
-- XGBM
-    - LGBM Regression
-    - LGBM Classification
-- Artifitial Neural Networks
-    - Regression Models
-    - Classification
+            - Artificial Neural Networks
+                - Mathematical formulation
+                - Practical Example    
 
-### 4. Training
-- Training, Validation and Test Sets
-- Underfitting and Overfitting
-- Hyperparameters Search
-    - Grid Search
-    - Random Search    
-- Practical Examples for Regression
-    - Linear Models
-    - SVR 
-    - LGBM Regression
-    - ANN for Regression
-- Practical Examples for Classification
-    - Linear Models
-    - SVM 
-    - LGBM Classification
-    - ANN for Classification
+    3.2 Classification
+        3.2.1 Metrics: Precision, Recall, Specificity, ROC, AUC
+        3.2.2 Algorithms:
+            - Logistic Regression
+                - Mathematical formulation
+                - Practical Example
+
+            - LGBM Classification
+                - Mathematical formulation
+                - Practical Example
+
+            - Artificial Neural Networks
+                - Mathematical formulation
+                - Practical Example                
