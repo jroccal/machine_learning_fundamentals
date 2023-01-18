@@ -14,38 +14,48 @@
         - Random search
         - Automatic approaches
 #### 2.3 Challenges
-    - Insufficient Quantity of Training Data
-    - Nonrepresentative Training Data
-    - Poor-Quality Data
-    - Irrelevant Features
-    - The Curse of Dimensionality
+     - Insufficient quantity of training data
+     - Nonrepresentative training data
+     - Poor quality data
+     - Feature engineering: Feature generation, Relevant/Irrelevant features, feature selection
+     - The curse of dimensionality
 ### 3. Regression and Classification Algorithms
 #### 3.1 Regression
 ##### 3.1.1 Metrics: MSE, RMSE, MAE
 ##### 3.1.2 Algorithms:
             - Linear Regression
-                - Mathematical formulation
+                - Mathematical formulation: loss functions, regularization, training.
+		- Approaches: Ridge Regression, The Lasso [1]
+		- Beyond linearity: Regression Splines, Smoothing Splines
+		- Pros and cons: Regression in High Dimensions
                 - Practical Example
 
-            - LGBM Regression
-                - Mathematical formulation
+	    - Gradient Boosting Machine (GBM)[2]
+                - Mathematical formulation: loss functions, regularization, training.	
+	      	- Approaches: XGBoost, LGBM
                 - Practical Example
 
             - Artificial Neural Networks
-                - Mathematical formulation
+                - Mathematical formulation: loss functions, regularization, training.
                 - Practical Example    
 
 #### 3.2 Classification
 ##### 3.2.1 Metrics: Precision, Recall, Specificity, ROC, AUC
 ##### 3.2.2 Algorithms:
             - Logistic Regression
-                - Mathematical formulation
+                - Mathematical formulation: loss functions, regularization, training.
                 - Practical Example
 
-            - LGBM Classification
-                - Mathematical formulation
+            - Gradient Boosting Machine (GBM)
+                - Mathematical formulation: loss functions, regularization, training.
+		- Approaches: XGBoost, LGBM
                 - Practical Example
 
             - Artificial Neural Networks
-                - Mathematical formulation
-                - Practical Example                
+                - Mathematical formulation: loss functions, regularization, training.
+                - Practical Example
+
+
+References:
+1. An Introduction to Statistical Learning
+2. The Elements of Statistical Learning
