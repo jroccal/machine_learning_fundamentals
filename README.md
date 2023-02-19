@@ -1,7 +1,7 @@
 # Machine Learning Fundamentals
 
 - [slides session 1](https://drive.google.com/file/d/1DOza9u9XcM6MrxrqhgHsDp750JeKzpFu/view?usp=share_link)
-- [slides introducion session 2~(in spanish)](https://drive.google.com/file/d/1deVyS-gRkYvIOuSuIu5gc8Qh4UQukRnm/view?usp=share_link) 
+- [slides introduction session 2~(in spanish)](https://drive.google.com/file/d/1deVyS-gRkYvIOuSuIu5gc8Qh4UQukRnm/view?usp=share_link) 
 - [slides session 2](https://drive.google.com/file/d/1VOs8vpPpPZB9eVfAfM-ID7Wgs6YOQnVD/view?usp=share_link)
 
 
